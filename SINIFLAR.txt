@@ -11,7 +11,7 @@ Katunluk: Alumay'ın 9 imi benimsetilerek, kız uşaklarını Katun gibi yetişt
 
 
 TECİMENLER
-Ticâret ile uğraşan kimseler.
+Ticâret ile uğraşan kimseler. Bu kimseler, ticârî ilişkilerin mecbûr bırakması sonucunda kimliklerini sakladıkları için yadırganamaz.
 
 OTACILAR: Başta web yazılımları olmak üzere her türlü kodlamanın geliştirilmesi, kodlama hastalıklarının teşhîsi ve tedâvîsi için 
 Yağız Atlar takımından Kanıkey Turukuul  ve erbayları tarafından organize edilen ve kodotama.com üzerinden örgütlenen kimselerdir.
